@@ -10,7 +10,7 @@ dive into (either individually or as a group).
 
 * Learn interactively with Clojure Koans: http://clojurekoans.com/
 * Clojure brain teasers: http://www.4clojure.com/
-* Functional Programming: Deep dive into the alternate implementations of Paul Graham's "Twenty Questions"
+* [Functional Programming: Deep dive into the alternate implementations of Paul Graham's "Twenty Questions"](20-questions.md)
 
 ## Practical Explorations
 
