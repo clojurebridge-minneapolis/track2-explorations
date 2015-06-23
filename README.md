@@ -1,6 +1,10 @@
 # track2-explorations
 
-This respository will collect documentation and ideas
+**NOTE:** Pointers to our latest version of the curriculum can be found in the [installfest](https://github.com/clojurebridge-minneapolis/installfest) repo!
+
+## Background
+
+This respository was used to collect documentation and ideas
 for the Track 2 "unstructured" hacking time at ClojureBridge.
 
 We will decide, in real time, which of these ideas (or others) to
